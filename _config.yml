@@ -1,0 +1,28 @@
+name: Lake Como - Torno
+favicon: null
+layout_spectrum: 0.35180241148918867
+typography_spectrum: 0.9722867393866181
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.21107409289106727
+  lightness: 0.6715507665649056
+  saturation: 0.9117682774085552
+  rhythmicContrast: 0.18910290719941258
+purpose: []
